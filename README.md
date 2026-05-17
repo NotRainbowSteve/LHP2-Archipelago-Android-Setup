@@ -12,7 +12,7 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 - The Lego Harry Potter 5-7 Archipelago Mod [Link](https://github.com/jradcode23/LHP2-Mod/releases)
 - Google Drive (or some other way to transfer files from your Windows computer to your Android phone, like a USB drive)
 - A text file editor on your Android phone
-  - Here is the one I used
+  - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.maxistar.textpad&utm_source=na_Med)
 ## Optional Software
 - Some sort of Android file manager
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.ace.ex.file.manager&hl=en_US)
@@ -40,4 +40,10 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 - Tap on your game in GameNative, but do not launch it
 - Select the settings button for the game
 - Tap "Open Container"
-  - This opens up the desktop environment on your Android phone, so that you can move files around within the virtual and real drives.
+  - This opens up the desktop environment on your Android phone, so that you can move files around within the virtual and real drives
+- Once the file explorer loads, open up the D:\ drive to access your Android Downloads folder
+- Move dinput8.dll and Reloaded.Mod.Loader.Bootstrapper.asi into your game folder
+  - Your game folder is located at the default Steam installaton in the virtual C:\ drive, but it can also be found in the virtual A:\ drive (it does not matter which one you do, they share files)
+  - You can also find your game files path in the menu screen for the game on GameNative if you wish to do this step from within the Android file manager of your choice
+- Move your whole Reloaded-II folder to any path on your C:\ drive, however I reccomend putting it into the Downloads folder for the virtual C:\ drive, which is located at C:\Users\xuser\Downloads
+- 
