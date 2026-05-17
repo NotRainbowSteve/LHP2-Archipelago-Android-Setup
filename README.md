@@ -46,4 +46,6 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   - Your game folder is located at the default Steam installaton in the virtual C:\ drive, but it can also be found in the virtual A:\ drive (it does not matter which one you do, they share files)
   - You can also find your game files path in the menu screen for the game on GameNative if you wish to do this step from within the Android file manager of your choice
 - Move your whole Reloaded-II folder to any path on your C:\ drive, however I reccomend putting it into the Downloads folder for the virtual C:\ drive, which is located at C:\Users\xuser\Downloads
-- 
+- In a file editor, you will need to edit the file paths in the ReloadedII.json file
+  -This can be done either inside of the dekstop environment, or in a text editor downloded to your Android phone (or from your Windows computer if you have not transferred the file over yet)
+  - The file paths need to follow the virtual C:\ drive's path to whereever you put the Realoded-II folder (only edit the parts of the file structure before the foler itself)
