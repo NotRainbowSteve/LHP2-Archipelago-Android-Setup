@@ -31,7 +31,7 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   - Visual C++ Runtime
   - GameNative
 ## First Time Setup Installation Instructions
-- Once you download the [latest release APK](https://github.com/utkarshdalal/GameNative/releases) file, run the APK file, and install it to your phone
+- Once you download the [latest release APK](https://github.com/utkarshdalal/GameNative/releases), run the APK file, and install it to your phone
 - Open up the GameNative app, and sign into your Steam or GOG account
 - Download and install Lego Harry Potter Years 5-7 onto your phone through GameNative
 - Launch your game, and make sure it runs. This could take up to 10 minutes the first time, depending on how slow your phone is, however it wil usually only take a few minutes
