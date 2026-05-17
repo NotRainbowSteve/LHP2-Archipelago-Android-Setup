@@ -98,5 +98,5 @@ Be sure to send a message in the Discord if your GPU does not have a config post
 - The game will attempt to connect to the server once the menu is loaded
 - IT IS IMPORTANT THAT YOU WAIT ON THE MENU UNTIL IT IS CONNECTED
   - This may take a while to connect, however it will eventually connect
--Start a new game and enjoy
+- Start a new game and enjoy
 - --
