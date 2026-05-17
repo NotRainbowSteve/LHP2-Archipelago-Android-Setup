@@ -82,6 +82,7 @@ These next few steps are specific to Adreno GPU's however it will be updated to 
 - Set your Graphics Driver Version to "25.1.0"
 - Set the DX Wrapper option to "WineD3D"
 - Set the DXVK Version to "2.6-arm64ec"
+Be sure to send a message in the Discord if your GPU does not have a config posted up, or if the shown config doesn't work
 - --
 ## Connecting to a Multiworld
 - Go ahead and tap on the "Open Container" button for the game, and go to your Reloaded-II folder
@@ -90,7 +91,7 @@ These next few steps are specific to Adreno GPU's however it will be updated to 
 - Go into the "legoharrypotter2.archipelago.mod" folder
 - Open up and edit the "Config.json" file to fill out the Host IP, Port Number, Slot Name, and Passowrd ad applicable
 - Launch the game
-  - Either by exiting the desktop environment and hitting on the Play button, or by navigating to your game folder and launching the currently named "Harry2.exe"
+  - This can be done either by exiting the desktop environment and hitting on the Play button, or by navigating to your game folder and launching the currently named "harry2.exe"
 - The game will attempt to connect to the server once the menu is loaded
 - IT IS IMPORTANT THAT YOU WAIT ON THE MENU UNTIL IT IS CONNECTED
   - This may take a while to connect, however it will eventually connect
