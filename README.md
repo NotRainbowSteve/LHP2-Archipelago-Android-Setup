@@ -14,7 +14,7 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.ace.ex.file.manager&hl=en_US)
 - Google Drive (or some other way to transfer files from your Windows computer to your Android phone, like a USB drive)
 ## First Time Setup File Setuo
-- Follow the [First Time Setup guide](https://github.com/jradcode23/LHP2-APWorld/blob/main/worlds/lhp2/docs/setup_en.md#first-time-setup) for the game on a device running Windows. Most of these files downloaded and generated you will be needing to transfer over to your Android phone.
+- Follow the Steam instructions of the [First Time Setup guide](https://github.com/jradcode23/LHP2-APWorld/blob/main/worlds/lhp2/docs/setup_en.md#first-time-setup) for the game on a device running Windows. Most of these files downloaded and generated you will be needing to transfer over to your Android phone.
 - Here is a list of all of the files you need to transfer over to your Android phone from your Windows computer, and where they are located:
   - Your whole Reloaded-II folder
      - Located at wherever you chose to install Reloaded-II
@@ -22,4 +22,13 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
      - Located in your Lego Harry Potter Years 5-7 game folder
   - ReloadedII.json
     - Located at C:\Users\[USER]\AppData\Roaming\Reloaded-Mod-Loader-II (replace [USER] with your Windows profile name)
+- Here is a list of all the files you need to download to your Android phone:
+  - .NET 9.0 or higher
+  - Visual C++ Runtime
+  - GameNative
 ## First Time Setup Installation Instructions
+- Once you download the [latest release APK](https://github.com/utkarshdalal/GameNative/releases) file, run the APK file, and install it to your phone
+- Open up the GameNative app, and sign into your Steam or GOG account
+- Download and install Lego Harry Potter Years 5-7 onto your phone through GameNative
+- Launch your game, and make sure it runs. This could take up to 10 minutes the first time, depending on how slow your phone is, however it wil usually only take a few minutes
+- 
