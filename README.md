@@ -92,7 +92,7 @@ Be sure to send a message in the Discord if your GPU does not have a config post
 - Go into the "User" folder
 - Go into the "Mods" Folder
 - Go into the "legoharrypotter2.archipelago.mod" folder
-- Open up and edit the "Config.json" file to fill out the Host IP, Port Number, Slot Name, and Passowrd as applicable
+- Open up and edit the "Config.json" file to fill out the Host IP, Port Number, Slot Name, and Password as applicable
 - Launch the game
   - This can be done either by exiting the desktop environment and hitting on the Play button, or by navigating to your game folder and launching the currently named "harry2.exe"
 - The game will attempt to connect to the server once the menu is loaded
