@@ -2,7 +2,7 @@
 If any help is needed for the setup, make sure to contact Rainbow (notrainbowsteve) in the [Discord](https://discord.gg/8Z65BR2).
 
 ## Required Hardware
-- A computer/laptop that can run Windows (with Android installed)
+- A computer/laptop that can run Windows (with Windows installed)
 - A phone/tablet that can run Android (with Android installed)
 ## Required Software
 - GameNative [Link](https://github.com/utkarshdalal/GameNative)
