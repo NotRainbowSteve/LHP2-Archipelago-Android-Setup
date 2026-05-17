@@ -11,12 +11,12 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   -  Requires Visual C++ Runtime [Link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version)
 - The Lego Harry Potter 5-7 Archipelago Mod [Link](https://github.com/jradcode23/LHP2-Mod/releases)
 - Google Drive (or some other way to transfer files from your Windows computer to your Android phone, like a USB drive)
-- A text file editor on your Android phone
-  - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.maxistar.textpad&utm_source=na_Med)
 ## Optional Software
 - Some sort of Android file manager
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.ace.ex.file.manager&hl=en_US)
 - Geekbench 6 for Android [Link](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6&hl=en_US)
+- A text file editor on your Android phone
+  - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.maxistar.textpad&utm_source=na_Med)
 ## First Time Setup File Setuo
 - Follow the Steam instructions of the [First Time Setup guide](https://github.com/jradcode23/LHP2-APWorld/blob/main/worlds/lhp2/docs/setup_en.md#first-time-setup) for the game on a device running Windows. Most of these files downloaded and generated you will be needing to transfer over to your Android phone.
 - Here is a list of all of the files you need to transfer over to your Android phone from your Windows computer, and where they are located:
