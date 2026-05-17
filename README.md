@@ -11,10 +11,10 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   -  Requires Visual C++ Runtime [Link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version)
 - The Lego Harry Potter 5-7 Archipelago Mod [Link](https://github.com/jradcode23/LHP2-Mod/releases)
 - Google Drive (or some other way to transfer files from your Windows computer to your Android phone, like a USB drive)
+- Geekbench 6 for Android [Link](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6&hl=en_US)
 ## Optional Software
 - Some sort of Android file manager
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.ace.ex.file.manager&hl=en_US)
-- Geekbench 6 for Android [Link](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6&hl=en_US)
 - A text file editor on your Android phone
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.maxistar.textpad&utm_source=na_Med)
 ## First Time Setup File Setuo
@@ -68,4 +68,13 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   - In the "value" text box, type "dinput8=n,b"
 - Go to the "Controller" tab at the top, and toggle on "Use Steam Input"
 - Go to the "Emulation" tab at the top, and change the Box64 Preset to "Unity Mono Bleeding Edge"
-#### This next section of the setup is not garunteed to be the same or work on every Android device if you follow it perfectly, because these settings are specific to Adreno GPU's
+- Download Geekbench 6, and open it up
+- Tap the GPU tab, and look at what GPU you have, and keep note of it for later
+
+These next few steps are specific to Adreno GPU's however it will be updated to show more GPU configurations as more people get support and report what configs they use
+- Go to the "Graphics" tap at the top, and change these settings to configure to your GPU:
+#### Adreno GPU Configuration
+- Set your Graphics Driver to option "Turnip (Adreno)"
+- Set your Graphics Driver Version to "25.1.0"
+- Set the DX Wrapper option to "WineD3D"
+- Set the DXVK Version to "2.6-arm64ec"
