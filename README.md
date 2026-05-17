@@ -13,10 +13,13 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 - Some sort of Android file manager
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.ace.ex.file.manager&hl=en_US)
 - Google Drive (or some other way to transfer files from your Windows computer to your Android phone, like a USB drive)
-## First Time Setup
+## First Time Setup File Setuo
 - Follow the [First Time Setup guide](https://github.com/jradcode23/LHP2-APWorld/blob/main/worlds/lhp2/docs/setup_en.md#first-time-setup) for the game on a device running Windows. Most of these files downloaded and generated you will be needing to transfer over to your Android phone.
-- Here is a list of all of the files you need to transfer over to your Android phone, and where they are located:
-  1. Your whole Reloaded-II folder
+- Here is a list of all of the files you need to transfer over to your Android phone from your Windows computer, and where they are located:
+  - Your whole Reloaded-II folder
      - Located at wherever you chose to install Reloaded-II
-  2. dinput8.dll and Reloaded.Mod.Loader.Bootstrapper.asi
+  - dinput8.dll and Reloaded.Mod.Loader.Bootstrapper.asi
      - Located in your Lego Harry Potter Years 5-7 game folder
+  - ReloadedII.json
+    - Located at C:\Users\[USER]\AppData\Roaming\Reloaded-Mod-Loader-II (replace [USER] with your Windows profile name)
+## First Time Setup Installation Instructions
