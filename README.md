@@ -82,6 +82,7 @@ These next few steps are specific to Adreno GPU's however it will be updated to 
 - Set your Graphics Driver Version to "25.1.0"
 - Set the DX Wrapper option to "WineD3D"
 - Set the DXVK Version to "2.6-arm64ec"
+
 Be sure to send a message in the Discord if your GPU does not have a config posted up, or if the shown config doesn't work
 - --
 ## Connecting to a Multiworld
