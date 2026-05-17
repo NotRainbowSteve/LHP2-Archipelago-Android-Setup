@@ -55,6 +55,8 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   - The file paths need to follow the virtual C:\ drive's path to whereever you put the Realoded-II folder (only edit the parts of the file structure before the foler itself)
 -Take the edited Reloaded-II.json file, and place it in the virtual C:\ drive at the path C:\Users\xuser\AppData\Roaming\Reloaded-Mod-Loader-II
   - You will likely have to create the Reloaded-Mod-Loader-II folder yourself, because that is not naturally there on the virtual drive
+- Launch the installation file for Visual C++ Runtime and install it
+- Launch the installation file for .NET and install it
 - Leave the desktop environment, and go to your settings for the game in GameNative
 - Tap on "Edit container"
 - Scroll down, and toggle on the "Unpack Files"
