@@ -68,4 +68,4 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   - In the "value" text box, type "dinput8=n,b"
 - Go to the "Controller" tab at the top, and toggle on "Use Steam Input"
 - Go to the "Emulation" tab at the top, and change the Box64 Preset to "Unity Mono Bleeding Edge"
-# This next section of the setup is not garunteed to be the same or work on every Android device if you follow it perfectly, because these settings are specific to Adreno GPU's
+### This next section of the setup is not garunteed to be the same or work on every Android device if you follow it perfectly, because these settings are specific to Adreno GPU's
