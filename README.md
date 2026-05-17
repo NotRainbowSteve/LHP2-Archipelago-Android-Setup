@@ -1,9 +1,10 @@
 # LHP2-Archipelago-Android-Setup
 If any help is needed for the setup, make sure to contact Rainbow (notrainbowsteve) in the [Discord](https://discord.gg/8Z65BR2).
-
+- --
 ## Required Hardware
 - A computer/laptop that can run Windows (with Windows installed)
 - A phone/tablet that can run Android (with Android installed)
+- --
 ## Required Software
 - GameNative [Link](https://github.com/utkarshdalal/GameNative)
 - Reloaded II Mod Loader [Link](https://reloaded-project.github.io/Reloaded-II/QuickStart/)
@@ -12,11 +13,13 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 - The Lego Harry Potter 5-7 Archipelago Mod [Link](https://github.com/jradcode23/LHP2-Mod/releases)
 - Google Drive (or some other way to transfer files from your Windows computer to your Android phone, like a USB drive)
 - Geekbench 6 for Android [Link](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6&hl=en_US)
+- --
 ## Optional Software
 - Some sort of Android file manager
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.ace.ex.file.manager&hl=en_US)
 - A text file editor on your Android phone
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.maxistar.textpad&utm_source=na_Med)
+- --
 ## First Time Setup File Setuo
 - Follow the Steam instructions of the [First Time Setup guide](https://github.com/jradcode23/LHP2-APWorld/blob/main/worlds/lhp2/docs/setup_en.md#first-time-setup) for the game on a device running Windows. Most of these files downloaded and generated you will be needing to transfer over to your Android phone.
 - Here is a list of all of the files you need to transfer over to your Android phone from your Windows computer, and where they are located:
@@ -30,6 +33,7 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   - .NET 9.0 or higher
   - Visual C++ Runtime
   - GameNative
+- --
 ## First Time Setup Installation Instructions
 - Once you download the [latest release APK](https://github.com/utkarshdalal/GameNative/releases), run the APK file, and install it to your phone
 - Open up the GameNative app, and sign into your Steam or GOG account
@@ -78,3 +82,4 @@ These next few steps are specific to Adreno GPU's however it will be updated to 
 - Set your Graphics Driver Version to "25.1.0"
 - Set the DX Wrapper option to "WineD3D"
 - Set the DXVK Version to "2.6-arm64ec"
+- --
