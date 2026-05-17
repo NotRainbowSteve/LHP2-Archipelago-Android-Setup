@@ -10,10 +10,12 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   -  Requires .NET 9.0 or higher [Link](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
   -  Requires Visual C++ Runtime [Link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version)
 - The Lego Harry Potter 5-7 Archipelago Mod [Link](https://github.com/jradcode23/LHP2-Mod/releases)
+- Google Drive (or some other way to transfer files from your Windows computer to your Android phone, like a USB drive)
+- A text file editor on your Android phone
+  - Here is the one I used
+## Optional Software
 - Some sort of Android file manager
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.ace.ex.file.manager&hl=en_US)
-- Google Drive (or some other way to transfer files from your Windows computer to your Android phone, like a USB drive)
-## Optional Software
 - Geekbench 6 for Android [Link](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6&hl=en_US)
 ## First Time Setup File Setuo
 - Follow the Steam instructions of the [First Time Setup guide](https://github.com/jradcode23/LHP2-APWorld/blob/main/worlds/lhp2/docs/setup_en.md#first-time-setup) for the game on a device running Windows. Most of these files downloaded and generated you will be needing to transfer over to your Android phone.
@@ -33,4 +35,9 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 - Open up the GameNative app, and sign into your Steam or GOG account
 - Download and install Lego Harry Potter Years 5-7 onto your phone through GameNative
 - Launch your game, and make sure it runs. This could take up to 10 minutes the first time, depending on how slow your phone is, however it wil usually only take a few minutes
-- Make sure every file/folder that you need on your phone is either downloaded onto or transferred over to your phone's Downloads folder (This is important, because GameNative has access to it, and we will be abusing that)
+- Make sure every file/folder that you need on your phone is either downloaded onto or transferred over to your phone's Downloads folder
+  - This is important, because GameNative has access to it, and we will be abusing that)
+- Tap on your game in GameNative, but do not launch it
+- Select the settings button for the game
+- Tap "Open Container"
+  - This opens up the desktop environment on your Android phone, so that you can move files around within the virtual and real drives.
