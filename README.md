@@ -83,7 +83,7 @@ These next few steps are specific to Adreno GPU's however it will be updated to 
 - Set the DX Wrapper option to "WineD3D"
 - Set the DXVK Version to "2.6-arm64ec"
 - --
-##Connecting to a Multiworld
+## Connecting to a Multiworld
 - Go ahead and tap on the "Open Container" button for the game, and go to your Reloaded-II folder
 - Go into the "User" folder
 - Go into the "Mods" Folder
