@@ -33,4 +33,4 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 - Open up the GameNative app, and sign into your Steam or GOG account
 - Download and install Lego Harry Potter Years 5-7 onto your phone through GameNative
 - Launch your game, and make sure it runs. This could take up to 10 minutes the first time, depending on how slow your phone is, however it wil usually only take a few minutes
-- 
+- Make sure every file/folder that you need on your phone is either downloaded onto or transferred over to your phone's Downloads folder (This is important, because GameNative has access to it, and we will be abusing that)
