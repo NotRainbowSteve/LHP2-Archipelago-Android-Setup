@@ -51,3 +51,21 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   - The file paths need to follow the virtual C:\ drive's path to whereever you put the Realoded-II folder (only edit the parts of the file structure before the foler itself)
 -Take the edited Reloaded-II.json file, and place it in the virtual C:\ drive at the path C:\Users\xuser\AppData\Roaming\Reloaded-Mod-Loader-II
   - You will likely have to create the Reloaded-Mod-Loader-II folder yourself, because that is not naturally there on the virtual drive
+- Leave the desktop environment, and go to your settings for the game in GameNative
+- Tap on "Edit container"
+- Scroll down, and toggle on the "Unpack Files"
+- Leave the settings and start the game up normally (through the  play button)
+  - Your game will crash, however this is supposed to happen, because the only reason we are launching it is to generate a file that we need to be able to launch the game correctly
+- Go back into the desktop envirnoment, and go into your game folder
+- Rename your "harry.exe" file anything else (it literally does not matter)
+- Rename the newly generated file called "harry.exe.unpacked.exe" to "harry.exe"
+- Leave the desktop environment, and go to your settings for the game in GameNative, and tap on "Edit Container Again"
+- Scroll down and toggle off the "Unpack Files" option
+- Go to the "Advanced" tab at the top, and change the Startup Selection from "Essential" to "Normal"
+- Go to the "Environment" tab at the top, and scroll all the way down
+- Tap on the little circle with a + symbol in it to create a new environment variable
+  - In the "Name" text box, type "WINEDLLOVERRIDES"
+  - In the "value" text box, type "dinput8=n,b"
+- Go to the "Controller" tab at the top, and toggle on "Use Steam Input"
+- Go to the "Emulation" tab at the top, and change the Box64 Preset to "Unity Mono Bleeding Edge"
+# This next section of the setup is not garunteed to be the same or work on every Android device if you follow it perfectly, because these settings are specific to Adreno GPU's
