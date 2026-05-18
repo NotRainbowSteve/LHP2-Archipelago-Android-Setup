@@ -50,10 +50,13 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 - Move dinput8.dll and Reloaded.Mod.Loader.Bootstrapper.asi into your game folder
   - Your game folder is located at the default Steam installaton in the virtual C:\ drive, but it can also be found in the virtual A:\ drive (it does not matter which one you do, they share files)
   - You can also find your game files path in the menu screen for the game on GameNative if you wish to do this step from within the Android file manager of your choice
-- Move your whole Reloaded-II folder to any path on your C:\ drive, however I reccomend putting it into the Downloads folder for the virtual C:\ drive, which is located at C:\Users\xuser\Downloads
+- Move your whole Reloaded-II folder to any path on your C:\ drive, however I reccomend putting it into the Downloads folder for the virtual C:\ drive, which is located at C:\users\xuser\Downloads
+- If you have the game installed to the default Steam installation directory on your Windows C:\ drive, then you can skip this step, otherwise continue reading as normal
+  - In a text editor, you will need to edit the file paths in the "AppConfig.json" file, that is located in your Reloaded-II folder at ...\Reloaded-II\Apps\harry2.exe\
+    - This can be done either inside of the dekstop environment, or in a text editor downloded to your Android phone (or from your Windows computer if you have not transferred the folder over yet)
+  - This will need to point to the "harry2.exe" in either the virtual C:\ drive's path, or virtul A:\ Drive's path
 - In a file editor, you will need to edit the file paths in the ReloadedII.json file
-  -This can be done either inside of the dekstop environment, or in a text editor downloded to your Android phone (or from your Windows computer if you have not transferred the file over yet)
-  - The file paths need to follow the virtual C:\ drive's path to whereever you put the Realoded-II folder (only edit the parts of the file structure before the foler itself)
+  - The file paths need to follow the virtual C:\ drive's path to wherever you put the Realoded-II folder (only edit the parts of the file structure before the foler itself)
 -Take the edited Reloaded-II.json file, and place it in the virtual C:\ drive at the path C:\Users\xuser\AppData\Roaming\Reloaded-Mod-Loader-II
   - You will likely have to create the Reloaded-Mod-Loader-II folder yourself, because that is not naturally there on the virtual drive
 - Launch the installation file for Visual C++ Runtime and install it
