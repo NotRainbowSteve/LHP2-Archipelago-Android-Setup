@@ -4,6 +4,7 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 ## Required Hardware
 - A computer/laptop that can run Windows (with Windows installed)
 - A phone/tablet that can run Android (with Android installed)
+- A controller of some sort that connects to your Android phone (A keyboard will also most likely work, however is untested currently)
 - --
 ## Required Software
 - GameNative [Link](https://github.com/utkarshdalal/GameNative)
