@@ -21,7 +21,7 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 - A text file editor on your Android phone
   - Here is the one I used [Link](https://play.google.com/store/apps/details?id=com.maxistar.textpad&utm_source=na_Med)
 - --
-## First Time Setup File Setuo
+## First Time Setup File Setup
 - Follow the Steam instructions of the [First Time Setup guide](https://github.com/jradcode23/LHP2-APWorld/blob/main/worlds/lhp2/docs/setup_en.md#first-time-setup) for the game on a device running Windows. Most of these files downloaded and generated you will be needing to transfer over to your Android phone.
 - Here is a list of all of the files you need to transfer over to your Android phone from your Windows computer, and where they are located:
   - Your whole Reloaded-II folder
