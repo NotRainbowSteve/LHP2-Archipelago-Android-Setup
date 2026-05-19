@@ -55,7 +55,7 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
   - In a text editor, you will need to edit the file paths in the "AppConfig.json" file, that is located in your Reloaded-II folder at ...\Reloaded-II\Apps\harry2.exe\
     - This can be done either inside of the dekstop environment, or in a text editor downloded to your Android phone (or from your Windows computer if you have not transferred the folder over yet)
   - This will need to point to the "harry2.exe" in either the virtual C:\ drive's path, or virtul A:\ Drive's path
-- In a file editor, you will need to edit the file paths in the ReloadedII.json file
+- In a text editor, you will need to edit the file paths in the ReloadedII.json file
   - The file paths need to follow the virtual C:\ drive's path to wherever you put the Realoded-II folder (only edit the parts of the file structure before the foler itself)
 -Take the edited Reloaded-II.json file, and place it in the virtual C:\ drive at the path C:\Users\xuser\AppData\Roaming\Reloaded-Mod-Loader-II
   - You will likely have to create the Reloaded-Mod-Loader-II folder yourself, because that is not naturally there on the virtual drive
