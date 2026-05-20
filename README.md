@@ -1,4 +1,4 @@
-# LHP2-Archipelago-Android-Setup
+# LHP2 Archipelago Android Setup Guide (Experimental)
 If any help is needed for the setup, make sure to contact Rainbow (notrainbowsteve) in the [Discord](https://discord.gg/8Z65BR2).
 - --
 ## Required Hardware
