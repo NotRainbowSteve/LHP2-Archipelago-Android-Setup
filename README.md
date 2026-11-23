@@ -81,9 +81,9 @@ If any help is needed for the setup, make sure to contact Rainbow (notrainbowste
 - Download Geekbench 6, and open it up
 - Tap the GPU tab, and look at what GPU you have, and keep note of it for later
 
-These next few steps are specific to Adreno GPU's however it will be updated to show more GPU configurations as more people get support and report what configs they use
-- Go to the "Graphics" tap at the top, and change these settings to configure to your GPU:
-#### Adreno GPU Configuration
+These next few steps are specific to Adreno 620 GPU's however it will be updated to show more GPU configurations as more people get support and report what configs they use. I will also update my own configuration if I find one that works better (or if it just needs updating)
+- Go to the "Graphics" tap at the top, and change these settings to configure your GPU:
+#### Adreno 620 GPU Configuration 
 - Set your Graphics Driver to option "Turnip (Adreno)"
 - Set your Graphics Driver Version to "25.1.0"
 - Set the DX Wrapper option to "WineD3D"
